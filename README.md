@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Profile Header with Wave Animation -->
-# Hi there, I'm [Your Name] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hi there, I'm Aryan Pandey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&height=100&lines=intern+for+netflix+Developer;Full+Stack+Engineer;Open+Source+Enthusiast;Expert+in+react)](https://git.io/typing-svg)
 
