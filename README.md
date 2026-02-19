@@ -1,28 +1,215 @@
-<h1 align="center">Hi 👋, I'm Aryan Pandey</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="krauzX" alt="krauzX" /> </p>
+<!-- Profile Header with Wave Animation -->
+# Hi there, I'm [Your Name] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krauzX" alt="aryandpandey" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&height=100&lines=intern+for+netflix+Developer;Full+Stack+Engineer;Open+Source+Enthusiast;Expert+in+react)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/USERNAME?label=Followers&style=social)](https://github.com/USERNAME?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/USERNAME?label=Stars&style=social)](https://github.com/USERNAME)
 
-- 🌱 I’m currently learning **React JavaScript angular vite kotlin**
+</div>
 
-- 💬 Ask me about **Sveltekit html css JavaScript**
+## 👨‍💻 About Me
 
-- 📫 How to reach me **weunite.business@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+As an aspiring software engineer with a fervent passion for crafting innovative and robust applications, I am eager to contribute my skills to a dynamic environment like Netflix. My academic journey and personal projects have equipped me with a solid foundation in modern web technologies, particularly Node.js, where I've developed several impactful tools and systems. I thrive on solving complex technical challenges and have a proven ability to quickly adapt to new frameworks and languages, demonstrated through my work on transpilers and developer tooling. While my projects showcase strong backend and tooling expertise, I am highly motivated to expand my front-end capabilities, including mastering frameworks like React and mobile development with Flutter, to build seamless user experiences. I am a proactive learner and a dedicated problem-solver, consistently seeking opportunities to enhance my technical acumen and contribute to projects that push the boundaries of technology. I am confident that my blend of foundational knowledge, eagerness to learn, and commitment to quality make me a valuable prospective intern for Netflix.
+
+- 🔭 I'm currently working on **innovative projects**
+- 🌱 I'm currently learning **react**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **react, nodejs, flutter**
+- 📫 How to reach me: **aryanrajapandey@gmail.com**
+- ⚡ Fun fact: **Great code is written by developers who never stop learning!**
+
+<br clear="both">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanrajapandey@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
+
+</div>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" width="98%" />
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🔥 [contextrig](https://github.com/krauzX/contextrig)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=contextrig&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B)](https://github.com/krauzX/contextrig)
+
+</div>
+
+I developed `contextrig`, a sophisticated code analysis tool leveraging Rust and JavaScript. This project involved deep dives into Abstract Syntax Trees (AST) using `tree-sitter` to parse and understand code context, demonstrating my ability to work with complex language processing techniques and build high-performance utilities.
+
+**🛠️ Built With:** `Rust` `JavaScript` `AST parsing` `tree-sitter` `Code Analysis` 
+
+<p align="center">
+⭐ <b>0 stars</b> | 🍴 <b>0 forks</b> | 🐛 <b>0 issues</b> | 📝 <b>Rust</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryandpandey&show_icons=true&locale=en&layout=compact" alt="aryandpandey" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryandpandey&show_icons=true&locale=en" alt="aryandpandey" /></p>
+### 🔥 [emoji-script](https://github.com/krauzX/emoji-script)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryandpandey&" alt="aryandpandey" /></p>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=emoji-script&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B)](https://github.com/krauzX/emoji-script)
 
+</div>
+
+I engineered `emoji-script`, a transpiler that transforms novel, emoji-based syntax into functional JavaScript. This project honed my understanding of compiler design principles, language parsing, and the intricacies of source-to-source compilation, showcasing my proficiency in Go, TypeScript, and JavaScript.
+
+**🛠️ Built With:** `Go` `TypeScript` `JavaScript` `Transpiler Development` `Language Design` `AST Manipulation` 
+
+<p align="center">
+⭐ <b>0 stars</b> | 🍴 <b>0 forks</b> | 🐛 <b>0 issues</b> | 📝 <b>TypeScript</b>
+</p>
+
+---
+
+<div align="center">
+
+### 🔥 [feedback-now](https://github.com/krauzX/feedback-now)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=feedback-now&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B)](https://github.com/krauzX/feedback-now)
+
+</div>
+
+I built `feedback-now`, a developer tooling project focused on enhancing code quality and CI/CD pipelines. Utilizing TypeScript and Node.js, I integrated pre-commit hooks and linting with `husky` and `eslint`, demonstrating my commitment to robust development practices and containerization via Docker.
+
+**🛠️ Built With:** `TypeScript` `Node.js` `Docker` `CI/CD` `Linting` `Developer Tooling` `Shell Scripting` 
+
+<p align="center">
+⭐ <b>0 stars</b> | 🍴 <b>0 forks</b> | 🐛 <b>0 issues</b> | 📝 <b>TypeScript</b>
+</p>
+
+---
+
+<div align="center">
+
+### 🔥 [inbox-from-nowhere](https://github.com/krauzX/inbox-from-nowhere)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=inbox-from-nowhere&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B)](https://github.com/krauzX/inbox-from-nowhere)
+
+</div>
+
+I created `inbox-from-nowhere`, a web-based application built with Python for the backend and HTML/CSS for the frontend. This project solidified my understanding of full-stack web development, including database interactions and implementing security best practices with `cryptography`.
+
+**🛠️ Built With:** `Python` `HTML` `CSS` `Web Development` `Security Principles` 
+
+<p align="center">
+⭐ <b>0 stars</b> | 🍴 <b>0 forks</b> | 🐛 <b>0 issues</b> | 📝 <b></b>
+</p>
+
+---
+
+<div align="center">
+
+### 🔥 [plus-stack](https://github.com/krauzX/plus-stack)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=plus-stack&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B)](https://github.com/krauzX/plus-stack)
+
+</div>
+
+I contributed to `plus-stack`, a full-stack monorepo application showcasing my expertise in TypeScript, JavaScript, and Node.js. My work involved integrating with external APIs and managing PostgreSQL databases, demonstrating my capability in complex system architecture and data management.
+
+**🛠️ Built With:** `TypeScript` `JavaScript` `Node.js` `PostgreSQL` `Database Management` `API Integration` `Monorepo Management` 
+
+<p align="center">
+⭐ <b>0 stars</b> | 🍴 <b>0 forks</b> | 🐛 <b>0 issues</b> | 📝 <b>TypeScript</b>
+</p>
+
+---
+
+<div align="center">
+
+### 🔥 [safelog](https://github.com/krauzX/safelog)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=safelog&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B)](https://github.com/krauzX/safelog)
+
+</div>
+
+I developed `safelog`, a robust logging and file system utility written in TypeScript and JavaScript, leveraging Node.js. This CLI tool effectively manages file operations and package releases, highlighting my skills in building reliable command-line interfaces and automating development workflows.
+
+**🛠️ Built With:** `TypeScript` `JavaScript` `Node.js` `CLI Development` `File System Operations` `Package Management` 
+
+<p align="center">
+⭐ <b>0 stars</b> | 🍴 <b>0 forks</b> | 🐛 <b>15 issues</b> | 📝 <b>TypeScript</b>
+</p>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+## 💭 Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Show some love by starring some of the repositories!
+
+![](https://hit.yhype.me/github/profile?user_id=GITHUB_ID)
+
+</div>
