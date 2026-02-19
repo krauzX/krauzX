@@ -1,206 +1,154 @@
 <div align="center">
 
-<!-- Profile Header with Wave Animation -->
-# Hi there, I'm Aryan Pandey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<img src="https://avatars.githubusercontent.com/u/90498067?v=4" width="120" height="120" style="border-radius:50%" alt="@krauzX" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&height=100&lines=intern+for+netflix+Developer;Full+Stack+Engineer;Open+Source+Enthusiast;Expert+in+react)](https://git.io/typing-svg)
+# Hi, I'm @krauzX <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/USERNAME?label=Followers&style=social)](https://github.com/USERNAME?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/USERNAME?label=Stars&style=social)](https://github.com/USERNAME)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E97F7&center=true&vCenter=true&width=650&height=80&lines=Senior+student;TypeScript & Rust Developer;Expert+in+react)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=krauzX&label=Profile%20Views&color=0e75b6&style=flat)
+[![Followers](https://img.shields.io/github/followers/krauzX?label=Followers&style=social)](https://github.com/krauzX?tab=followers)
+[![Stars](https://img.shields.io/github/stars/krauzX?label=Stars&style=social)](https://github.com/krauzX)
 
 </div>
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+As a senior student with a deep passion for crafting robust and innovative software solutions, I bring a versatile skill set spanning full-stack web development to system-level programming. My expertise includes modern frontend frameworks like React, backend services with Node.js and Python, and high-performance applications leveraging Rust and Go. I thrive on building scalable and maintainable systems, consistently applying best practices in architecture and code quality.
 
-As an aspiring software engineer with a fervent passion for crafting innovative and robust applications, I am eager to contribute my skills to a dynamic environment like Netflix. My academic journey and personal projects have equipped me with a solid foundation in modern web technologies, particularly Node.js, where I've developed several impactful tools and systems. I thrive on solving complex technical challenges and have a proven ability to quickly adapt to new frameworks and languages, demonstrated through my work on transpilers and developer tooling. While my projects showcase strong backend and tooling expertise, I am highly motivated to expand my front-end capabilities, including mastering frameworks like React and mobile development with Flutter, to build seamless user experiences. I am a proactive learner and a dedicated problem-solver, consistently seeking opportunities to enhance my technical acumen and contribute to projects that push the boundaries of technology. I am confident that my blend of foundational knowledge, eagerness to learn, and commitment to quality make me a valuable prospective intern for Netflix.
+My practical experience demonstrates proficiency across the entire development lifecycle, from designing and implementing intricate database schemas with PostgreSQL and SQL, to orchestrating containerized environments using Docker. I am adept at developing command-line interfaces, contributing to language tooling, and managing complex monorepo structures. My projects reflect a commitment to tackling diverse technical challenges and delivering impactful results.
 
-- 🔭 I'm currently working on **innovative projects**
-- 🌱 I'm currently learning **react**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **react, nodejs, flutter**
-- 📫 How to reach me: **aryanrajapandey@gmail.com**
-- ⚡ Fun fact: **Great code is written by developers who never stop learning!**
+I am eager to leverage my comprehensive understanding of web technologies, backend systems, and performance-critical languages to contribute to dynamic teams and solve real-world problems. My continuous learning mindset, coupled with a solid foundation in various programming paradigms, positions me to quickly adapt to new technologies and drive successful project outcomes.
 
-<br clear="both">
+- 🎯 Growing as a **Senior student**
+- 🔭 Currently building **[contextrig](https://github.com/krauzX/contextrig) & [emoji-script](https://github.com/krauzX/emoji-script)**
+- 🌱 Deepening expertise in **react & nodejs**
+- 💬 Ask me about **TypeScript, Rust, JavaScript**
+- 📫 Reach me at **aryanrajapandey@gmail.com**
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanrajapandey@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanrajapandey@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krauzX)
 
 </div>
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frameworks & Libraries
+**Languages**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=shell&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 
-### Databases
+**Frameworks & Libraries**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) 
 
-### Tools & Platforms
+**Databases**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) 
 
-### Languages
+**Tools & Platforms**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 
 </div>
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" width="48%" />
+![krauzX's stats](https://github-readme-stats.vercel.app/api?username=krauzX&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krauzX&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" width="98%" />
+![Streak](https://streak-stats.demolab.com?user=krauzX&theme=tokyonight&hide_border=true)
 
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=krauzX&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### [contextrig](https://github.com/krauzX/contextrig)
 
-### 🔥 [contextrig](https://github.com/krauzX/contextrig)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=contextrig&theme=tokyonight&hide_border=true)](https://github.com/krauzX/contextrig)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=contextrig&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B)](https://github.com/krauzX/contextrig)
+I developed `contextrig`, a tool leveraging Rust and JavaScript to perform sophisticated code analysis. This project involved utilizing `tree-sitter` for abstract syntax tree (AST) parsing across multiple languages, demonstrating my ability to build advanced developer tooling and process complex code structures effectively.
 
-</div>
+**Tech:** `Rust` `JavaScript` `Code Analysis` `AST Parsing` `Language Tooling` 
 
-I developed `contextrig`, a sophisticated code analysis tool leveraging Rust and JavaScript. This project involved deep dives into Abstract Syntax Trees (AST) using `tree-sitter` to parse and understand code context, demonstrating my ability to work with complex language processing techniques and build high-performance utilities.
-
-**🛠️ Built With:** `Rust` `JavaScript` `AST parsing` `tree-sitter` `Code Analysis` 
-
-<p align="center">
-⭐ <b>0 stars</b> | 🍴 <b>0 forks</b> | 🐛 <b>0 issues</b> | 📝 <b>Rust</b>
-</p>
+📝 1 commits &nbsp;·&nbsp; 👥 1 contributors &nbsp;·&nbsp; 🔤 Rust / JavaScript
 
 ---
 
-<div align="center">
+### [emoji-script](https://github.com/krauzX/emoji-script)
 
-### 🔥 [emoji-script](https://github.com/krauzX/emoji-script)
+> A transpiler that converts emoji-based and markup-based code to JavaScript.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=emoji-script&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B)](https://github.com/krauzX/emoji-script)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=emoji-script&theme=tokyonight&hide_border=true)](https://github.com/krauzX/emoji-script)
 
-</div>
+I engineered `emoji-script`, a unique transpiler written in Go that converts custom emoji and markup-based code into executable JavaScript. This project showcases my skills in language design, compiler principles, and building robust transpilation pipelines, integrating Go for performance-critical parsing with front-end technologies like CSS and TypeScript.
 
-I engineered `emoji-script`, a transpiler that transforms novel, emoji-based syntax into functional JavaScript. This project honed my understanding of compiler design principles, language parsing, and the intricacies of source-to-source compilation, showcasing my proficiency in Go, TypeScript, and JavaScript.
+**Tech:** `Go` `JavaScript` `TypeScript` `Transpilation` `Language Design` `Web Development` 
 
-**🛠️ Built With:** `Go` `TypeScript` `JavaScript` `Transpiler Development` `Language Design` `AST Manipulation` 
-
-<p align="center">
-⭐ <b>0 stars</b> | 🍴 <b>0 forks</b> | 🐛 <b>0 issues</b> | 📝 <b>TypeScript</b>
-</p>
+📝 12 commits &nbsp;·&nbsp; 👥 1 contributors &nbsp;·&nbsp; 🔤 TypeScript / Go / CSS
 
 ---
 
-<div align="center">
+### [feedback-now](https://github.com/krauzX/feedback-now)
 
-### 🔥 [feedback-now](https://github.com/krauzX/feedback-now)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=feedback-now&theme=tokyonight&hide_border=true)](https://github.com/krauzX/feedback-now)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=feedback-now&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B)](https://github.com/krauzX/feedback-now)
+I contributed to `feedback-now`, a project focusing on robust development workflows using TypeScript and JavaScript, containerized with Docker. My involvement included implementing CI/CD practices using `husky` and `commitlint`, demonstrating my commitment to code quality, automated checks, and efficient software delivery pipelines.
 
-</div>
+**Tech:** `TypeScript` `JavaScript` `Docker` `CI/CD Practices` `Containerization` `Shell Scripting` 
 
-I built `feedback-now`, a developer tooling project focused on enhancing code quality and CI/CD pipelines. Utilizing TypeScript and Node.js, I integrated pre-commit hooks and linting with `husky` and `eslint`, demonstrating my commitment to robust development practices and containerization via Docker.
-
-**🛠️ Built With:** `TypeScript` `Node.js` `Docker` `CI/CD` `Linting` `Developer Tooling` `Shell Scripting` 
-
-<p align="center">
-⭐ <b>0 stars</b> | 🍴 <b>0 forks</b> | 🐛 <b>0 issues</b> | 📝 <b>TypeScript</b>
-</p>
+📝 1 commits &nbsp;·&nbsp; 👥 1 contributors &nbsp;·&nbsp; 🔤 TypeScript / JavaScript / Dockerfile
 
 ---
 
-<div align="center">
+### [inbox-from-nowhere](https://github.com/krauzX/inbox-from-nowhere)
 
-### 🔥 [inbox-from-nowhere](https://github.com/krauzX/inbox-from-nowhere)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=inbox-from-nowhere&theme=tokyonight&hide_border=true)](https://github.com/krauzX/inbox-from-nowhere)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=inbox-from-nowhere&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B)](https://github.com/krauzX/inbox-from-nowhere)
+I built `inbox-from-nowhere`, a full-stack web application primarily using Python for the backend and HTML/CSS for the frontend. This project involved implementing secure communication and data handling with `cryptography`, showcasing my expertise in web development, backend logic, and integrating security best practices.
 
-</div>
+**Tech:** `Python` `HTML` `CSS` `Web Development` `Backend Development` `Security` 
 
-I created `inbox-from-nowhere`, a web-based application built with Python for the backend and HTML/CSS for the frontend. This project solidified my understanding of full-stack web development, including database interactions and implementing security best practices with `cryptography`.
-
-**🛠️ Built With:** `Python` `HTML` `CSS` `Web Development` `Security Principles` 
-
-<p align="center">
-⭐ <b>0 stars</b> | 🍴 <b>0 forks</b> | 🐛 <b>0 issues</b> | 📝 <b></b>
-</p>
+📝 11 commits &nbsp;·&nbsp; 👥 1 contributors &nbsp;·&nbsp; 🔤 Python / CSS / HTML
 
 ---
 
-<div align="center">
+### [plus-stack](https://github.com/krauzX/plus-stack)
 
-### 🔥 [plus-stack](https://github.com/krauzX/plus-stack)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=plus-stack&theme=tokyonight&hide_border=true)](https://github.com/krauzX/plus-stack)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=plus-stack&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B)](https://github.com/krauzX/plus-stack)
+I developed `plus-stack`, a comprehensive application utilizing TypeScript and JavaScript within an `Nx` monorepo, featuring a strong PostgreSQL backend with PLpgSQL. This project highlights my proficiency in scalable database programming, monorepo architecture, and full-stack development, managing complex data operations and application structures.
 
-</div>
+**Tech:** `TypeScript` `JavaScript` `PostgreSQL` `PLpgSQL` `SQL` `Monorepo Architecture` `Database Management` `Node.js` 
 
-I contributed to `plus-stack`, a full-stack monorepo application showcasing my expertise in TypeScript, JavaScript, and Node.js. My work involved integrating with external APIs and managing PostgreSQL databases, demonstrating my capability in complex system architecture and data management.
-
-**🛠️ Built With:** `TypeScript` `JavaScript` `Node.js` `PostgreSQL` `Database Management` `API Integration` `Monorepo Management` 
-
-<p align="center">
-⭐ <b>0 stars</b> | 🍴 <b>0 forks</b> | 🐛 <b>0 issues</b> | 📝 <b>TypeScript</b>
-</p>
+📝 1 commits &nbsp;·&nbsp; 👥 1 contributors &nbsp;·&nbsp; 🔤 TypeScript / JavaScript / PLpgSQL
 
 ---
 
-<div align="center">
+### [safelog](https://github.com/krauzX/safelog)
 
-### 🔥 [safelog](https://github.com/krauzX/safelog)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=safelog&theme=tokyonight&hide_border=true)](https://github.com/krauzX/safelog)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=safelog&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B6B)](https://github.com/krauzX/safelog)
+I created `safelog`, a JavaScript and TypeScript-based command-line interface (CLI) tool designed for efficient and robust logging and file system operations. This project involved leveraging Node.js utilities like `commander` and `fs-extra`, demonstrating my ability to build practical and user-friendly developer tools.
 
-</div>
+**Tech:** `JavaScript` `TypeScript` `Node.js` `CLI Development` `File System Operations` `Command-Line Interfaces` 
 
-I developed `safelog`, a robust logging and file system utility written in TypeScript and JavaScript, leveraging Node.js. This CLI tool effectively manages file operations and package releases, highlighting my skills in building reliable command-line interfaces and automating development workflows.
+📝 2 commits &nbsp;·&nbsp; 👥 1 contributors &nbsp;·&nbsp; 🔤 TypeScript / JavaScript
 
-**🛠️ Built With:** `TypeScript` `JavaScript` `Node.js` `CLI Development` `File System Operations` `Package Management` 
-
-<p align="center">
-⭐ <b>0 stars</b> | 🍴 <b>0 forks</b> | 🐛 <b>15 issues</b> | 📝 <b>TypeScript</b>
-</p>
-
-## 🐍 Contribution Snake
+## 📈 Contribution Activity
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-## 💭 Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=krauzX&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -208,8 +156,6 @@ I developed `safelog`, a robust logging and file system utility written in TypeS
 
 <div align="center">
 
-### ⭐ Show some love by starring some of the repositories!
-
-![](https://hit.yhype.me/github/profile?user_id=GITHUB_ID)
+*Generated with [GitRight](https://github.com/krauzX) · ![](https://komarev.com/ghpvc/?username=krauzX&style=flat-square)*
 
 </div>
