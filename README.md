@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-As a dedicated Software Engineer, I am passionate about crafting robust and scalable solutions that drive tangible impact. My expertise primarily spans Python, where I excel in developing intelligent systems and data-driven applications, complemented by strong foundational skills in Go for high-performance backend services, and modern front-end frameworks like Svelte and TypeScript for engaging user experiences.
+As a dedicated Software Engineer, I am passionate about crafting robust and scalable solutions that address real-world challenges. My expertise spans backend development with a strong focus on Go and Python, complemented by frontend proficiency in Svelte and TypeScript, enabling me to build full-stack applications with a keen eye for performance and user experience.
 
-I thrive on transforming complex problems into elegant software solutions, focusing on clean architecture, efficient algorithms, and user-centric design. My commitment to continuous learning ensures I stay at the forefront of technology, ready to tackle diverse challenges across the full stack.
+I thrive on leveraging cutting-edge technologies to deliver impactful results. My recent work includes developing AI-powered tools designed to provide actionable insights, demonstrating my ability to integrate advanced machine learning models into practical applications. I am committed to writing clean, maintainable code and continuously expanding my technical toolkit.
 
-I am eager to contribute my skills in building innovative products and collaborating with forward-thinking teams to deliver exceptional software.
+My approach emphasizes problem-solving and efficiency, whether I'm optimizing data processing pipelines, developing intuitive user interfaces, or architecting distributed systems. I am always eager to contribute to innovative projects that push the boundaries of technology and deliver tangible value.
 
 - 🎯 Growing as a **Software Engineer**
 - 🔭 Currently building **[blueprint](https://github.com/krauzX/blueprint)**
@@ -41,7 +41,7 @@ I am eager to contribute my skills in building innovative products and collabora
 
 **Languages**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
 
 **Frameworks & Libraries**
 
@@ -70,9 +70,9 @@ I am eager to contribute my skills in building innovative products and collabora
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=krauzX&repo=blueprint&theme=tokyonight&hide_border=true)](https://github.com/krauzX/blueprint)
 
-I developed `blueprint`, an AI-powered analyzer to quantify water and carbon footprints, demonstrating my ability to build impactful environmental tools. Leveraging `google-genai` and `Python`, I engineered a robust system for environmental impact assessment, integrating `Streamlit` for an intuitive user interface and `Plotly` for dynamic data visualization. This project showcases my proficiency in creating data-driven applications that address complex real-world challenges.
+I developed 'blueprint,' an AI-powered water and carbon footprint analyzer, leveraging Python to process environmental data. This project integrated the Google Generative AI API to provide intelligent analysis and used Streamlit to create an interactive and user-friendly web interface. I also incorporated Plotly for dynamic data visualization, allowing users to intuitively understand their environmental impact.
 
-**Tech:** `Python` `Generative AI` `Streamlit` `Data Visualization` `Data Analysis` `Pydantic` `Plotly` 
+**Tech:** `Python` `Generative AI` `Streamlit` `Data Analysis` `Data Visualization` `Pydantic` 
 
 📝 5 commits &nbsp;·&nbsp; 👥 1 contributors &nbsp;·&nbsp; 🔤 Python
 
