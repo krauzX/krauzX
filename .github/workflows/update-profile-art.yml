@@ -1,0 +1,57 @@
+name: Update Profile Art
+
+on:
+  schedule:
+    - cron: "0 0 * * *"        # daily at 00:00 UTC
+  workflow_dispatch: {}        # allow manual runs from the Actions tab
+
+permissions:
+  contents: write              # GITHUB_TOKEN may push the regenerated art
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: true
+
+jobs:
+  update-art:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install --quiet requests beautifulsoup4
+
+      - name: Fetch contribution data
+        run: python scripts/fetch_contributions.py
+
+      - name: Render isometric heatmap
+        run: python scripts/render_heatmap_svg.py
+
+      - name: Render info card (live stats)
+        run: python scripts/make_info_card.py
+
+      - name: Render terminal banner
+        run: python scripts/make_banner.py
+
+      - name: Render calligraphy shloka
+        run: python scripts/make_calligraphy.py
+
+      - name: Commit and push (only when something changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/contributions.json banner.svg calligraphy.svg contrib-heatmap.svg info-card.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(profile): refresh contribution heatmap [skip ci]"
+            git push
+          else
+            echo "No changes — nothing to commit."
+          fi

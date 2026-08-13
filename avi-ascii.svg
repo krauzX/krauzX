@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490.0" height="687.5999999999999" viewBox="0 0 490.0 687.5999999999999" role="img" aria-label="ASCII portrait of Aryan Raja Pandey">    <style>
+    .frame { fill: #171716; stroke: #3a3a36; }
+    .titlebar { fill: #1e1d1b; }
+    .tdot { animation: dotPulse 1.6s ease-in-out infinite; }
+    @keyframes dotPulse { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+    text.art {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;
+      fill: #f2efe9;
+      font-size: 5.6px;
+    }
+    .tl {
+      opacity: 0;
+      animation: typeLine 0.1s steps(1, end) forwards;
+    }
+    @keyframes typeLine {
+      from { opacity: 0; }
+      to   { opacity: 1; }
+    }
+    .cursor {
+      opacity: 0;
+      animation: cursorBlink 1.1s steps(1) infinite;
+    }
+    @keyframes cursorBlink {
+      0%, 55%  { opacity: 1; }
+      56%, 100% { opacity: 0; }
+    }
+    .caret {
+      fill: #f2efe9;
+      opacity: 0.10;
+      animation: caretSweep 4.12s ease-in-out forwards;
+      transform-box: fill-box;
+      transform-origin: 0 0;
+    }
+    @keyframes caretSweep {
+      0%   { transform: translateY(0); opacity: 0.09; }
+      85%  { opacity: 0.09; }
+      100% { transform: translateY(644.0px); opacity: 0; }
+    }
+  </style>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1.5" fill="#000000"/>
+    </pattern>
+    <radialGradient id="vig" cx="50%" cy="46%" r="75%">
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.22"/>
+    </radialGradient>
+  </defs>
+  <rect class="frame" x="0" y="0" width="490.0" height="687.5999999999999" rx="8"/>
+<rect class="titlebar" x="0" y="0" width="490.0" height="38.0" rx="8"/>
+  <rect x="0" y="30.0" width="490.0" height="8" fill="#3a3a36"/>
+  <circle class="tdot" cx="22" cy="19.0" r="4" fill="#4a4844" style="animation-delay:0s"/>
+  <circle class="tdot" cx="34" cy="19.0" r="4" fill="#5a5852" style="animation-delay:0.25s"/>
+  <circle class="tdot" cx="46" cy="19.0" r="4" fill="#6a6860" style="animation-delay:0.5s"/>
+  <text x="245.0" y="23.0" text-anchor="middle" font-size="11px" fill="#9c988e" letter-spacing="1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">krauzX@dev — ~/portrait.art</text>
+  <g transform="translate(0 38.0)">
+  <rect class="caret" x="4.0" y="0" width="482.0" height="5.6" rx="1.5"/>
+  <text xml:space="preserve" class="art" x="4.0" y="0">
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.00s">                                                                                                                                               </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.04s">                                                                                                                                               </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.07s">                                                                                                                                               </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.11s">                                                                                                                                               </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.14s">                                                                                                                                               </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.18s">                                                                                                                                               </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.21s">                                                           ...                                                                                 </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.25s">                                 ......... ......   .                                                                                          </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.28s">                                 ..........................'^. ...                                                                             </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.32s">                                ...`'.`'.`'.'..`'.`' .'....x$, .Yl,.                                                                           </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.35s">            ...                 ..'`'.^'.`'.`..''^:^.`^'''.v@^.^B&gt;I.                                                                           </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.39s">           .......              ..'^'."''^.'^..`',I^.":`^"`O*`.!#&gt;;.                                                                           </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.42s">           .........            ..`"''"''^''^.'`';l^.::^"^^oO'._ai:..                                                                          </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.46s">           .........          . ..^"''"'`"'`^.''':I`.::^,^:@z.'{wi;                                                                            </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.49s">           .......'.            ..^^'`,',;.`^.''..........;$t..|Yi^^:..                ...                                                     </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.53s">           .......'.            ...'.''.`^.''.'...........!$]..tn!'_/...                                                                       </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.56s">           .......` .  ..............'`^^```'............._$&lt;..j(!']~.. ........    . .'^.....                                                 </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.60s">           ......',. .          ....  ."I;;,"^''..........1$l..Y[;.)l.;`        . .  .`&gt;:.... .. ....... .                                     </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.63s">           ......'it;''.....''```.... .,l;:,"^`'..........t&amp;: .m-,'f,.&gt;Y+''...'.   ..,".......            ..                                   </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.67s">           ......`~v~...`^";ifhh".... .;lII"`'''..........zk" `b-:`j^.&lt;Yccx&gt;&gt;+]+"`;"`^`..'.`'."...........  ...........                        </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.70s">           ......^]v&gt;. ."^`';|md^.... .I!ll`....'........'0O^ ,h?,^j''_Y\n|lli_"`.;:`'.....''.`''!!;;&lt;&lt;~?}!.              .          ..        </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.74s">           ......,)c&gt;....''.&lt;Coq^.... 'li!l^....'........`qu' !q+^:\.`?n1c1I;I&gt;. .'`;'............^"^!;,:;;_;''.'.''...... ....  ...           </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.77s">           ......;\vl `,`'..+CMZ`.... `!i!I'..'''....... ^q\. +Ci`I[.^[x)U{;;{u`.. ...       .  ..;+l&gt;~{/j-]&lt;I;,!;_~``.   '.  ..`..........    </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.81s">           ..'...Itu; "&gt;lI^.-Q8L`'....`!i!;'.''''....... ,q[. [nl'i&lt;.^)t\C}",_!..`I!(u(-l!?],... ,+&gt;Il&gt;+_|+?&gt;;^:I^^,~l""::;,'`.`^....".....    </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.84s">          .''''.'!jx, ,l,"``{O@z''. ..^!!!;..''''....... Iw~. (/;.~l."t\rQ]",l;'`$$$$$$$$$%o*m%+^1,,:Ill&gt;+i[-&gt;I&gt;!:!!{jwm8L1hkp```.`)_]1t}}'..  </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.88s">          .''''.'&gt;rj".;l":^^\p$n''....^lll:..''''....... &gt;Z!..\},.~,.:x)uC_^;!&gt;x}YzO\~_[?!+~jO}lX#'.":,,"`I(_-+!&lt;+~?_ZhZa?&lt;+&gt;".^' &lt;oXzh$kW` .  </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.91s">          .''''.'~ut^.,I,".`fh$/'`...."I;I,..`'''........_U:..|+".&lt;^.;u(zJi^(jzMJ0rMCvw&gt;U?U%o&amp;ix%J. '`^^^`!/}{?:?/\1&gt;+,^`''   ."..^&gt;_&lt;}/]1I... </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.95s">          .''''.`_z\`'::,".`u#$1'`....:I;;"..`'''........]x" .\i`'i'.ln(UYI^&lt;~~M$$QUZmjY$8{fYun%$~ ...&lt;)[l_f{t1ijUUU&lt;....`'.'..^..'^".   '`..  </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:0.98s">        . .`'`'.^?U)^,;::,.^CW$?'`....:II~".'`''.........}\^ '\I''!'.ij|Lx,^!+]/QM$*o&amp;@YQxv8$M$/^.....!?&lt;I{t)Xj)ni,,:.''.^..'..'..^];....'. .  </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.02s">        . .```'.^[J1`"I,"^.`Y&amp;$+''....:I;i^.'`.''........)}' `1,'`I..~|?)&gt;`..,{`;u$8$kmvYn})x&amp;@` ...`l}?&lt;,1j/u|_'   '....^.'^.''..:)"'"".`...  </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.05s">        . .```'."1L}..:,'..`u&amp;%i''....;;;;`.'`''........'/?'.^_^.^;..]-,u?''.,[^[(m@@unx11|cC&amp;+ .`l&lt;!nxrv&gt;\vuv}, ...' ...`.':.'...&gt;['':"'`...  </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.09s">        . .^^`'.,{v_. `,'. ,0%8I''....IllI'.``'''...... `\?;,i{i:i;.')+lu~''.^_^|t/*p%$$dZ@%8t .'u0_!uxct;\txz]!. .`^^`''`.:&gt;''..^}+!'...^]` . </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.12s">        . '^^`'.:/u&gt;'.``''.;roa,'' ..'Ii!l'."`'''...... ^[,."}[^',^.`)+/+"'..,&gt;`1q]#bz0n((+/#?' .`[!&gt;xjZn?dwdQ?,.`'`;~&gt;:,`.'..'."nh}o&gt;..`z$c...</tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.16s">        . `"^`'.Il"'..........`"''...`!!l!'.,```..... . ,)`^][,.."`.^)&gt;Y|'''.,&gt;`n$LC$8m{!![w$:^' .,"&gt;|)L-+XzdO&lt;;!&gt;l`"l&lt;&gt;,^^'...`(@Mj%(li&gt;88k' .</tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.19s">        . '"^`''!.            .^'....^ii!!'':``'........jwI"!;'..`..^[lQj'.'"}1v{khOU#Mabpka@-.?}&gt;^'..^I```:?+;"&gt;&lt;,^I[1}:,"'.'."/bmuhYcI?%&amp;h. .</tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.23s">       .. '"^`.'&gt;'........ ....`'....,&lt;&gt;&lt;i'';^`'...... 'w$OvXn\1][&gt;I+{&lt;rji]Xc}I{Ut#*ZZ$8#oo*@c lm0QLf-:..'^&gt;}&lt;'"+,."~{)+:;"'.''[1UJY8$x&gt;j$$r...</tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.26s">       .. ',"`''~' .        . .''....:~&gt;&lt;i.`I^`'........{qOoM&amp;8%%&amp;8MhMMaoaqJ[t_[kz*$$vn$$@@@$B`^r#vJZh&amp;C;`l&gt;]l.'"..,I_]&gt;Ii,'.'`1fr+u$YnxOat. . </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.30s">       .. ^"^`'`!.          . .''....I~&gt;&lt;i.`;``'......../&amp;kbqmZOZQXXh$@hwdCz~[X}\tcUI .'{$$%$n^!&lt;It(tQxL*+;i~,..  .`I_[!;&gt;l"..^a$[;o$mqIl'  .  </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.33s">       .. ^,"^'^&gt;.          . .'.....l~~~l.^;^`'....'. .xamZQCzvurLMCaCJY/}_)_}}_))".'`.."0$#?&gt;^..^jCn-])XmOLJYvj(j\[1_:",^'..';{&gt;,0#$J'  ..   </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.37s">       ...''''.^!.          . .'.....!~+_;.":^'.....`. 'LBMM#oahqq$~+vf[}{&gt;:"1_]&lt;I-\_}1_;''j%tl'"+r0U)}_+[ZCCL&lt;::,;:`'.      .. .....`. ..     </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.40s">       . .^''..^; .         . ''....'&gt;+__:.,,`'.....'. `Ookhkbd00ao^fj&lt;i!ii!^_r_[/?]|)crx\l&gt;l.'!{zmCf[_&lt;l"I...                 .       .       </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.44s">       . .''..."l .         . ..... '&lt;_++".,"`'.....`. ^ZqO0QCX0odZ^]}I!"'I':fr|!ubdt)LqZzul,;]xzCuuj+!I'`:   .........         .......        </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.47s">       .... .. "; .         . ..... '&lt;++_^."`''....`". ;M#ahbwC)(kQ"&gt;&gt;:&gt;''^'&lt;t1tntkf1OCwOuuic?~jzLXc(;l,.I;...                                 </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.51s">       ....... :, .          ...... `+++&lt;'.":'.... `^. !Wohkkdwx0u/,,I^"..;_rwnj\]jtC?u_vd_!n&gt;+)X0uX);]'.l: .                                  </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.54s">      .. ..... ;" .          .......^+~&gt;;..^I......... +8kq0JCa$XC]^`,'...I-?;^,-+/11\1^tr;_&gt;&gt;tfX++1}&gt;1.',I                                    </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.58s">      .. ......I' .          .......`:^`'.'^^..........]oZLLmonr-[&lt;".^'..'`'..^{(}z}-,`"m),l,l?}~:;^`^_..`I.                                   </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.61s">      .. ......!' .          .'.... .'``^`";,^`'.......j@#k~Yuku(/~"''...'`...^-_~(;^''}d|,,Il}j&gt;&gt;](i&lt;;..^;.                                   </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.65s">      .. ..   .i' .        . .' ....^Ii&lt;!,!&gt;!I,^'''`'..c#Md&gt;k&gt;C_}?,`'........`+-;t&lt;.'.:rd/"&lt;(i"?);"I_&lt;: ..^.                                   </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.68s">         ......l. .        . ^l"^,I&lt;1jnvt{rnj|-!I;;;^'`Uq]jUu&lt;_:!;`'. ...'`;!]]~/Q'..'nBh,^1_iIj["!?!1'...`.                                   </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.72s">         ......!...        . :],`''`^:Ii&lt;+}(\\1-_++_!,lw*Y&amp;0_?/Y)~^...'"Iii&gt;?1jaW&gt;.."n$@!.:\/1tv&gt;'`}l-...''.                                   </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.75s">        ....'''i. ..      ...'.......'''''''`````````':k#JLY[:;}-^.;..;~?|([}jL#/^.,L$$&gt;..!\}?1n{,:??I ...                                     </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.79s">         ''^",I(&gt;.     ........'''``^^^""",,:,"^^`'''.:#Ct(;,^`...0j..`|ftzj1jdt;.^x$$]..'_&gt;):{x~'"I~`.'^i^ .                                  </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.82s">      . ',,;Il~jqu:.........''````^^,,,,:;I!i!l:,"^^`.Ibj/?&lt;l"`'.&gt;0_..'!muxUjf?`^"L$B]..^,~1/?i?~.!li..'^I-. .                                 </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.86s">      . ^&gt;!&gt;~_)YUf_^'''''''```^^"",::;Il!!&gt;~_+&gt;!;,"""'IwCLQj+l,'^LU+``.'{bUJZu-nQo$M!..'I"&gt;+_u"'I`?lI .',,!. .                                 </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.89s">      . ^+_})[+!"'..''''`````^"",:;II!!&gt;&lt;~+_?_&lt;ilI;,"`iOwn?~~&lt;;'`vC+^"``^}ZmZ#$$$$Ol'.^!{&gt;?n(vi'"`{&gt;`'+tzi..                                   </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.93s">      . "\]&gt;,'...'''```````^^",,:;Il!!i&lt;~+_--+&lt;&gt;iI;:"^+v(-))cLOX{_(&gt;,:;I"^ivLJ0hW~`..'`:;:&lt;{&lt;&gt;tI'`~l_Q$$$+ .                                   </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:1.96s">       .^,'...''```^````^^^^",:::;Il!!i&gt;&lt;~~++~~&gt;lI:,"^_(+}p8$$$$M[!:"!i}[i"&lt;Uhww_`I^.';(\;:^:;~"'`&gt;_vc%8@"..                                   </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.00s">     ..''.'``^^^^^```^^""",,,,,:;IIl!!&gt;&gt;i&gt;&gt;&lt;+_&lt;i!;:,^`?/1}/hBW%8Bo]-;i]{un_"Itw\!;`.'&gt;fU+,&lt;&lt;+(t^.^&gt;&gt;:Y@$o. .                                   </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.03s">     .''`''`^",""",::;;;Ill!!llllllll!!ii&gt;&gt;__&lt;&lt;!;;,^``&gt;_~&gt;;!L$&amp;%B$8\_&lt;}\jUUf)r\~"..`!{U_;~~-&gt;&gt;+^."&lt;`,w%$J.                                     </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.07s">            .........`:lIIIIIIIll&gt;&lt;&gt;&gt;&gt;&lt;&lt;&lt;+?_+~ilI,^^''l!II;"^(%%B@$#{l^)zuYJwZ_:.'&gt;]]c}[uIi!,,i^.:!.^d8${ .                                    </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.10s">      .                ...    ...'^``^"",;;IllI!;,"`'`&gt;&lt;!lI;,`?#B8B$$(.'/jUZO[,^`?\_j1]}&gt;^-?,"I,.I"."L@$I .                                    </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.14s">             .........                      ........."l;;;I;;:^I0$8%$8{^^1f/i^"l_|))|~`""^!!"^,".:._^v$$^ .                                    </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.17s">                               ............          ............}$$0nW8I....'`";III:.'\^^!l,,'^'`.?]&amp;$@' .                                    </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.21s">                                             ...... .          .  ;OxM@@8+'   .. ....'}?.`:""&gt;,:.'&gt;C%$@#. .                                    </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.24s">                                                      ..  ..  . .. 'q$&amp;$&gt;wa^i'.!)}il_Xu`.I~I"I";'L$$%8a_..                                     </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.28s">                                                                 ..'lk$z:jI}$a-'^?|(t?^..!_;&gt;II`_$o#m0\. .                                     </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.31s">                                                                . .i:!1''&gt;Cmq$$J`'.   ...&gt;,.."^'`(bJ),`.                                       </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.35s">                                                                  .^"''_?CCXqMhjl:,:^'..`^.. ''.`lu&lt;.                                          </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.38s">                                                                 . ''.Ibu\uLZk#][.'`^```^'''... "I\. ..                                        </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.42s">                                                                 . '-j}?azuCUcz/f.'^^``..,;:,...^"-...                                         </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.45s">                                                                 . "pk/+u&lt;+aUm_t)'.";l_".^:;?^`,.^, .                                          </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.49s">                                                                 . ^kU}tXn-?[-,I_^.'i!`. ``'''`.`!, .                                          </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.52s">                                                                 . ,&amp;[~tnx{}[&gt;;`;".'^''.....  .^:l".                                           </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.56s">                                                                 . &gt;qi[kZXf+{{{?;I^`^`'.......```"^ .                                          </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.59s">                                                                 . ~J_Uh/Lzi?(\t+;;",^'`'....'`'"&gt;' .                                          </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.63s">                                                                 . &lt;/}wqcm|}x(~i&lt;&lt;^. .....`^"^^^,]. .                                          </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.66s">                                                                 . `/(LCxr~~~]/(}[I.....''`^",,,!I..                                           </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.70s">                                                                 . ,U\Y/r}:~-~_}|&gt;^.....'`",""",-` .                                           </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.73s">                                                                 . _t\hZr+&gt;}tt|((. ....''^,:I,"l1. .                                           </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.77s">                                                                 . }\iJmz!)fzrzY&gt;......```,::,,&gt;_..                                            </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.80s">                                                                 . [u`~O,`,l_}[1^ .....'`:I:,,,&gt;; .                                            </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.84s">                                                                . .{{,I]I:;,`'^;.  ...'^"`I~&gt;:`". .                                            </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.87s">                                                                . .!&gt;&lt;}~1+~[&gt;"`^. . .'',!i!:^^&gt;I..                                             </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.91s">                                                                  ."^`}jZ0[;~{:... .,.`'"IlI;ii' .                                             </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.94s">                                                                 ..``.;?_;;,^!:. . )}.'..'I&lt;_-&gt;' .                                             </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:2.98s">                                                                . .ll',I"I{(/}. . .I`.'``^^^^l(. .                                             </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.01s">                                                               ...j?'izUf}++]~. .. .^.'^;!;":l|. .                                             </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.05s">                                                               . ^L-``I(L0Qa)&lt;' . ..,``^^``^^`&lt;. .                                             </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.08s">                                                               ...v0)/!&gt;}YO\I,.. . .[`^"::`'.'`.                                               </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.12s">                                                               . "Ui&gt;?[|\_"::' .   .}`'^^^^'... .                                              </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.15s">                                                              ...r&gt;;)&gt;~I;,:`'. . . .cl'`^^'..`^ .                                              </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.19s">                                                              . 'p/Qu[i;::^..    . ^|^'..'^'.^` .                                              </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.22s">                                                              . lx&gt;^`:!?I`'. .   . ,[^`^'.'^^~` .                                              </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.26s">                                                               .rfxf{_?i"`:. .   . "]"''.`'''^. .                                              </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.29s">                                                             . .Lxn],,"'^lI.     . `_''...'';` .                                               </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.33s">                                                             . ^X\tl!}/}"il .    . '?'`.'``':' .                                               </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.36s">                                                             . i{)\?\[&gt;""^...    . 'n'``^`'`,' .                                               </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.40s">                                                             . __}?f{:"^`        . `M,`^;:`^I` .                                               </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.43s">                                                             ..,Il![&lt;"``. .      . ;Ml.`^^``"^                                                 </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.47s">                                                            . .?tvuX1`'''. .     ..^........`I.                                                </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.50s">                                                           ...&gt;&amp;Ct}~"'`'"` .    . .c"'.....'^^.                                                </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.54s">                                                           . ~)l'......... .     .."?};`^","'.                                                 </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.57s">                                                           . ~/l^^:;```'i. .     ..~l"`'''''. .                                                </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.61s">                                                           . ,mxt]~;^`''".       . ?{I)t!' ....                                                </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.64s">                                                           . .i&lt;~I,,^^^;` .       ..",:I'`I^:.                                                 </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.68s">                                                           . 't&lt;l&lt;?]l"^_' .      .  .I....,``'..                                               </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.71s">                                                          ...{\twX&gt;^''`;. .    . !j`."&gt;"!^   ...         .                                     </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.75s">                                                          . .-lI^. ...;".      . &gt;$$|&lt;&lt;(p\?... ..       ...                                    </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.78s">                                                           . ';:. ... .'.       ..,(d%x!,rn~...  . ..    ..                                    </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.82s">                                                               ..&gt;\`.  ..           .`&gt;...li  .......  . .. .                                  </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.85s">                                                             .. .''..`^.         ...        `. .......   ..          .                         </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.89s">                                                                .   .,^.            .... ...]?^.         ..                                    </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.92s">                                                                 ..                           .                                                </tspan>
+    <tspan x="4.0" dy="5.6" class="tl" style="animation-delay:3.96s">                                                                    ...                     ..                                                 </tspan>
+    <tspan x="4.0" dy="5.6" class="cursor" style="animation-delay:4.21s">▍</tspan>
+  </text>
+  </g>
+  <rect x="0" y="0" width="490.0" height="687.5999999999999" fill="url(#scan)" opacity="0.07"/>
+  <rect x="0" y="0" width="490.0" height="687.5999999999999" fill="url(#vig)"/>
+</svg>

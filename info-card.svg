@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490.0" height="687.5999999999999" viewBox="0 0 490.0 687.5999999999999" role="img" aria-label="Game-style terminal HUD for Aryan Raja Pandey">
+  <style>
+    .frame { fill: #171716; stroke: #3a3a36; }
+    .titlebar { fill: #1e1d1b; }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .tdot { animation: dotPulse 1.6s ease-in-out infinite; }
+    @keyframes dotPulse { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+    .cursor { animation: cursorBlink 1.1s steps(1) infinite; }
+    @keyframes cursorBlink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+    .dot { animation: dotBlink 1.8s steps(1) infinite; }
+    @keyframes dotBlink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0.2; } }
+    .spinner {
+      animation: spin 1.2s steps(4) infinite;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+  </style>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1.5" fill="#000000"/>
+    </pattern>
+    <radialGradient id="vig" cx="50%" cy="46%" r="75%">
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.22"/>
+    </radialGradient>
+  </defs>
+  <rect class="frame" x="0" y="0" width="490.0" height="687.5999999999999" rx="8"/>
+  <rect class="titlebar" x="0" y="0" width="490.0" height="38.0" rx="8"/>
+  <rect x="0" y="30.0" width="490.0" height="8" fill="#3a3a36"/>
+  <circle class="tdot" cx="22" cy="19.0" r="4" fill="#4a4844" style="animation-delay:0s"/>
+  <circle class="tdot" cx="34" cy="19.0" r="4" fill="#5a5852" style="animation-delay:0.25s"/>
+  <circle class="tdot" cx="46" cy="19.0" r="4" fill="#6a6860" style="animation-delay:0.5s"/>
+  <text x="245.0" y="23.0" text-anchor="middle" font-size="11px" fill="#9c988e" letter-spacing="1">aryan@dev — ~/profile</text>
+  <text x="476.0" y="23.0" text-anchor="end" font-size="10.5px" fill="#7d7a72">zsh</text>
+    <text x="14.0" y="56.0" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">PLAYER  </tspan><tspan fill="#e8e5de"> Aryan Raja Pandey</tspan></text>
+    <text x="14.0" y="79.6" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">ROLE    </tspan><tspan fill="#e8e5de"> Software Engineer · System Architect</tspan></text>
+    <text x="14.0" y="103.2" xml:space="preserve" font-size="15.34px"><tspan fill="#b5b2a8">  </tspan><tspan fill="#b5b2a8">Computer Science Undergraduate (2nd-year) at IIIT</tspan></text>
+    <text x="14.0" y="126.8" xml:space="preserve" font-size="15.34px"><tspan fill="#b5b2a8">  </tspan><tspan fill="#b5b2a8">Kottayam. Specializing in high-performance backends,</tspan></text>
+    <text x="14.0" y="150.4" xml:space="preserve" font-size="15.34px"><tspan fill="#b5b2a8">  </tspan><tspan fill="#b5b2a8">custom language transpilers, and local AI tooling.</tspan></text>
+    <text x="14.0" y="174.0" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">XP      </tspan><tspan fill="#e8e5de">264/1000</tspan><tspan fill="#e0ddd5">  ▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░  26%</tspan></text>
+    <text x="14.0" y="197.6" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">COMBO   </tspan><tspan fill="#b5b2a8">  TODAY 0 · WEEK 0 · STREAK 0 · PEAK JUL 2026 (164)</tspan></text>
+    <text x="14.0" y="221.2" xml:space="preserve" font-size="15.34px"></text>
+    <text x="14.0" y="244.8" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">┌─ ENGINE ─────────────────────────────────────────────┐</tspan></text>
+    <text x="14.0" y="268.4" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">│ </tspan><tspan fill="#9c988e">PROJECT               </tspan><tspan fill="#8a877e">  </tspan><tspan fill="#9c988e">ENGINE              </tspan><tspan fill="#8a877e">  </tspan><tspan fill="#9c988e">STATUS</tspan><tspan fill="#8a877e"> │</tspan></text>
+    <text x="14.0" y="292.0" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">│ </tspan><tspan fill="#ffffff">EmojiScript           </tspan><tspan fill="#8a877e">  </tspan><tspan fill="#b5b2a8">TypeScript          </tspan><tspan fill="#8a877e">  </tspan><tspan class="dot" fill="#f2efe9" style="animation-delay:1.05s">●     </tspan><tspan fill="#8a877e"> │</tspan></text>
+    <text x="14.0" y="315.6" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">│ </tspan><tspan fill="#ffffff">Expert Ebook Gen      </tspan><tspan fill="#8a877e">  </tspan><tspan fill="#b5b2a8">Python/Ollama       </tspan><tspan fill="#8a877e">  </tspan><tspan class="dot" fill="#f2efe9" style="animation-delay:1.40s">●     </tspan><tspan fill="#8a877e"> │</tspan></text>
+    <text x="14.0" y="339.2" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">│ </tspan><tspan fill="#ffffff">Algowiz               </tspan><tspan fill="#8a877e">  </tspan><tspan fill="#b5b2a8">React Three Fiber   </tspan><tspan fill="#8a877e">  </tspan><tspan class="dot" fill="#f2efe9" style="animation-delay:1.75s">●     </tspan><tspan fill="#8a877e"> │</tspan></text>
+    <text x="14.0" y="362.8" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">│ </tspan><tspan fill="#ffffff">Gitright              </tspan><tspan fill="#8a877e">  </tspan><tspan fill="#b5b2a8">Go                  </tspan><tspan fill="#8a877e">  </tspan><tspan class="dot" fill="#f2efe9" style="animation-delay:2.10s">●     </tspan><tspan fill="#8a877e"> │</tspan></text>
+    <text x="14.0" y="386.4" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">│ </tspan><tspan fill="#ffffff">BluePrint             </tspan><tspan fill="#8a877e">  </tspan><tspan fill="#b5b2a8">Python              </tspan><tspan fill="#8a877e">  </tspan><tspan class="dot" fill="#f2efe9" style="animation-delay:0.00s">●     </tspan><tspan fill="#8a877e"> │</tspan></text>
+    <text x="14.0" y="410.0" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">└──────────────────────────────────────────────────────┘</tspan></text>
+    <text x="14.0" y="433.6" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">┌─ SKILLS ─────────────────────────────────────────────┐</tspan></text>
+    <text x="14.0" y="457.2" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">│ </tspan><tspan fill="#9c988e">SKILL           </tspan><tspan fill="#8a877e">  </tspan><tspan fill="#9c988e">PROGRESS                </tspan><tspan fill="#8a877e">  </tspan><tspan fill="#9c988e">VAL     </tspan><tspan fill="#8a877e"> │</tspan></text>
+    <text x="14.0" y="480.8" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">│ </tspan><tspan fill="#ffffff">BACKEND         </tspan><tspan fill="#8a877e">  </tspan><tspan fill="#e0ddd5">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░</tspan><tspan fill="#8a877e">  </tspan><tspan fill="#e8e5de"> 96     </tspan><tspan fill="#8a877e"> │</tspan></text>
+    <text x="14.0" y="504.4" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">│ </tspan><tspan fill="#ffffff">SYSTEMS         </tspan><tspan fill="#8a877e">  </tspan><tspan fill="#e0ddd5">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░</tspan><tspan fill="#8a877e">  </tspan><tspan fill="#e8e5de"> 88     </tspan><tspan fill="#8a877e"> │</tspan></text>
+    <text x="14.0" y="528.0" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">│ </tspan><tspan fill="#ffffff">AI/ML           </tspan><tspan fill="#8a877e">  </tspan><tspan fill="#e0ddd5">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░</tspan><tspan fill="#8a877e">  </tspan><tspan fill="#e8e5de"> 74     </tspan><tspan fill="#8a877e"> │</tspan></text>
+    <text x="14.0" y="551.6" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">│ </tspan><tspan fill="#ffffff">TOOLING         </tspan><tspan fill="#8a877e">  </tspan><tspan fill="#e0ddd5">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░</tspan><tspan fill="#8a877e">  </tspan><tspan fill="#e8e5de"> 91     </tspan><tspan fill="#8a877e"> │</tspan></text>
+    <text x="14.0" y="575.2" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">└──────────────────────────────────────────────────────┘</tspan></text>
+    <text x="14.0" y="598.8" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">LOADOUT </tspan><tspan fill="#e8e5de"> GO·RUST·TS·PY | PGSQL·DOCKER | NEXT·GODOT</tspan></text>
+    <text x="14.0" y="622.4" xml:space="preserve" font-size="15.34px"><tspan fill="#8a877e">[</tspan><tspan fill="#e0ddd5">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓</tspan><tspan fill="#8a877e">] 100% · READY</tspan></text>
+    <text x="14.0" y="646.0" xml:space="preserve" font-size="15.34px"><tspan fill="#9c988e">$ </tspan><tspan class="cursor" fill="#f2efe9">▍</tspan><tspan class="spinner" fill="#c9c5bc">  ◐</tspan></text>
+  <rect x="0" y="0" width="490.0" height="687.5999999999999" fill="url(#scan)" opacity="0.07"/>
+  <rect x="0" y="0" width="490.0" height="687.5999999999999" fill="url(#vig)"/>
+</svg>

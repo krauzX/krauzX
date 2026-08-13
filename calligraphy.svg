@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1012 360" role="img" aria-label="उद्यमेन हि सिध्यन्ति कार्याणि न मनोरथैः">
+  <style>
+    .frame { fill: #171716; stroke: #3a3a36; }
+    .titlebar { fill: #1e1d1b; }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .deva { font-family:'Noto Sans Devanagari', 'Nirmala UI', 'Devanagari Sangam MN', system-ui, sans-serif; fill:#f2efe9; font-size:34px; letter-spacing:1px; text-anchor:middle; }
+    .roman { fill: #e8e5de; font-size: 19px; letter-spacing: 1px; text-anchor: middle; }
+    .meaning { fill: #b5b2a8; font-size: 14.5px; letter-spacing: 2px; text-anchor: middle; }
+    .attr { fill: #9c988e; font-size: 12.5px; letter-spacing: 1.5px; text-anchor: middle; }
+    .rule { stroke: #3a3a36; stroke-width: 1.5; }
+    .deco { fill: #6a675f; }
+    .seal { fill: none; stroke: #6a675f; stroke-width: 1.5; }
+    .tdot { animation: dotPulse 1.6s ease-in-out infinite; }
+    @keyframes dotPulse { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+    .tl { opacity: 0; animation: inkIn 1.1s ease-out forwards; }
+    @keyframes inkIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .cursor { opacity: 0; animation: cursorBlink 1.1s steps(1) infinite; }
+    @keyframes cursorBlink { 0%, 55% { opacity: 1; } 56%, 100% { opacity: 0; } }
+  </style>
+  <defs>
+    <radialGradient id="vig" cx="50%" cy="46%" r="75%">
+      <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.22"/>
+    </radialGradient>
+  </defs>
+  <rect class="frame" x="0" y="0" width="1012" height="360" rx="10"/>
+  <rect class="titlebar" x="0" y="0" width="1012" height="38.0" rx="10"/>
+  <rect x="0" y="30.0" width="1012" height="8" fill="#3a3a36"/>
+  <circle class="tdot" cx="22" cy="19.0" r="4" fill="#4a4844" style="animation-delay:0s"/>
+  <circle class="tdot" cx="34" cy="19.0" r="4" fill="#5a5852" style="animation-delay:0.25s"/>
+  <circle class="tdot" cx="46" cy="19.0" r="4" fill="#6a6860" style="animation-delay:0.5s"/>
+  <text x="506.0" y="23.0" text-anchor="middle" font-size="11px" fill="#9c988e" letter-spacing="1">aryan@dev — ~/shloka.txt</text>
+  <text x="998.0" y="23.0" text-anchor="end" font-size="10.5px" fill="#7d7a72">zsh</text>
+
+  <line class="rule" x1="250" y1="122" x2="486" y2="122"/>
+  <text class="deco" x="506.0" y="128" text-anchor="middle" font-size="14px">◆</text>
+  <line class="rule" x1="526" y1="122" x2="762" y2="122"/>
+
+  <text class="deva tl" x="506.0" y="166" style="animation-delay:0.25s">उद्यमेन हि सिध्यन्ति</text>
+  <text class="deva tl" x="506.0" y="202" style="animation-delay:0.5s">कार्याणि न मनोरथैः</text>
+
+  <line class="rule" x1="250" y1="226" x2="486" y2="226"/>
+  <text class="deco" x="506.0" y="232" text-anchor="middle" font-size="12px">◆</text>
+  <line class="rule" x1="526" y1="226" x2="762" y2="226"/>
+
+  <text class="roman tl" x="506.0" y="266" style="animation-delay:0.8s">UDYAMENA HI SIDDHYANTI KARYĀṆI NA MANORATHAIH</text>
+  <text class="meaning tl" x="506.0" y="294" style="animation-delay:1.05s">BY EFFORT, NOT BY WISHES, ARE DEEDS ACCOMPLISHED</text>
+  <text class="attr tl" x="506.0" y="322" style="animation-delay:1.3s">— चाणक्य नीति · CHANAKYA NITI<tspan class="cursor"> ▍</tspan></text>
+
+  <g transform="translate(938 118)">
+    <rect class="seal" x="-19" y="-19" width="38" height="38" rx="4" transform="rotate(45)"/>
+    <text x="0" y="7" text-anchor="middle" font-size="15px" fill="#b5b2a8" font-family="'Noto Sans Devanagari', 'Nirmala UI', 'Devanagari Sangam MN', system-ui, sans-serif">क्र</text>
+  </g>
+
+  <rect x="0" y="0" width="1012" height="360" fill="url(#vig)"/>
+</svg>
