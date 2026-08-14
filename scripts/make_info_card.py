@@ -165,9 +165,10 @@ def build_lines(usable_chars: int, stats: dict | None = None) -> list:
                        f"\u00b7 STREAK {stats['streak']} \u00b7 PEAK {stats['peak']}",
                        "dim")])
     else:
+        empty_bar = "\u2591" * 34
         lines.append([("XP      ", "muted"),
                       (f"0/{GOAL}", "out"),
-                      (f"  {'\u2591' * 34}  0%", "prog")])
+                      (f"  {empty_bar}  0%", "prog")])
         lines.append([("COMBO   ", "muted"),
                       ("  TODAY 0 \u00b7 WEEK 0 \u00b7 STREAK 0 \u00b7 PEAK -", "dim")])
 
