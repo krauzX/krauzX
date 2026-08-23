@@ -1,50 +1,13 @@
 {
  "user": "krauzX",
  "source": "https://github.com/krauzX",
- "fetched_at": "2026-08-22T01:23:08+00:00",
+ "fetched_at": "2026-08-23T01:36:43+00:00",
  "columns": 53,
  "rows": 7,
- "total": 268,
- "total_level": 43,
+ "total": 210,
+ "total_level": 47,
  "max_level": 4,
  "grid": [
-  [
-   {
-    "date": "2025-08-17",
-    "level": 0,
-    "count": null
-   },
-   {
-    "date": "2025-08-18",
-    "level": 0,
-    "count": null
-   },
-   {
-    "date": "2025-08-19",
-    "level": 0,
-    "count": null
-   },
-   {
-    "date": "2025-08-20",
-    "level": 0,
-    "count": null
-   },
-   {
-    "date": "2025-08-21",
-    "level": 0,
-    "count": null
-   },
-   {
-    "date": "2025-08-22",
-    "level": 0,
-    "count": null
-   },
-   {
-    "date": "2025-08-23",
-    "level": 0,
-    "count": null
-   }
-  ],
   [
    {
     "date": "2025-08-24",
@@ -1664,8 +1627,8 @@
    },
    {
     "date": "2026-06-26",
-    "level": 2,
-    "count": 25
+    "level": 0,
+    "count": null
    },
    {
     "date": "2026-06-27",
@@ -1681,7 +1644,7 @@
    },
    {
     "date": "2026-06-29",
-    "level": 2,
+    "level": 3,
     "count": 18
    },
    {
@@ -1765,18 +1728,18 @@
    },
    {
     "date": "2026-07-15",
-    "level": 1,
+    "level": 3,
     "count": 15
    },
    {
     "date": "2026-07-16",
-    "level": 3,
+    "level": 4,
     "count": 45
    },
    {
     "date": "2026-07-17",
     "level": 4,
-    "count": 61
+    "count": 28
    },
    {
     "date": "2026-07-18",
@@ -1802,7 +1765,7 @@
    },
    {
     "date": "2026-07-22",
-    "level": 1,
+    "level": 2,
     "count": 12
    },
    {
@@ -1817,7 +1780,7 @@
    },
    {
     "date": "2026-07-25",
-    "level": 2,
+    "level": 3,
     "count": 19
    }
   ],
@@ -1968,6 +1931,19 @@
     "level": 0,
     "count": null
    }
+  ],
+  [
+   {
+    "date": "2026-08-23",
+    "level": 0,
+    "count": null
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ]
 }
