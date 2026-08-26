@@ -1,7 +1,7 @@
 {
  "user": "krauzX",
  "source": "https://github.com/krauzX",
- "fetched_at": "2026-08-25T01:25:02+00:00",
+ "fetched_at": "2026-08-26T01:34:50+00:00",
  "columns": 53,
  "rows": 7,
  "total": 210,
@@ -1948,7 +1948,11 @@
     "level": 0,
     "count": null
    },
-   null,
+   {
+    "date": "2026-08-26",
+    "level": 0,
+    "count": null
+   },
    null,
    null,
    null
