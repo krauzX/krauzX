@@ -1,50 +1,13 @@
 {
  "user": "krauzX",
  "source": "https://github.com/krauzX",
- "fetched_at": "2026-10-31T04:44:54+00:00",
+ "fetched_at": "2026-11-01T05:07:17+00:00",
  "columns": 53,
  "rows": 7,
- "total": 1337,
- "total_level": 227,
+ "total": 1338,
+ "total_level": 228,
  "max_level": 4,
  "grid": [
-  [
-   {
-    "date": "2025-10-26",
-    "level": 0,
-    "count": null
-   },
-   {
-    "date": "2025-10-27",
-    "level": 0,
-    "count": null
-   },
-   {
-    "date": "2025-10-28",
-    "level": 0,
-    "count": null
-   },
-   {
-    "date": "2025-10-29",
-    "level": 0,
-    "count": null
-   },
-   {
-    "date": "2025-10-30",
-    "level": 0,
-    "count": null
-   },
-   {
-    "date": "2025-10-31",
-    "level": 0,
-    "count": null
-   },
-   {
-    "date": "2025-11-01",
-    "level": 0,
-    "count": null
-   }
-  ],
   [
    {
     "date": "2025-11-02",
@@ -1965,9 +1928,22 @@
    },
    {
     "date": "2026-10-31",
+    "level": 1,
+    "count": 1
+   }
+  ],
+  [
+   {
+    "date": "2026-11-01",
     "level": 0,
     "count": null
-   }
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ]
 }
