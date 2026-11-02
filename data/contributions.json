@@ -1,11 +1,11 @@
 {
  "user": "krauzX",
  "source": "https://github.com/krauzX",
- "fetched_at": "2026-11-01T05:07:17+00:00",
+ "fetched_at": "2026-11-02T05:08:01+00:00",
  "columns": 53,
  "rows": 7,
- "total": 1338,
- "total_level": 228,
+ "total": 1339,
+ "total_level": 229,
  "max_level": 4,
  "grid": [
   [
@@ -1935,10 +1935,14 @@
   [
    {
     "date": "2026-11-01",
+    "level": 1,
+    "count": 1
+   },
+   {
+    "date": "2026-11-02",
     "level": 0,
     "count": null
    },
-   null,
    null,
    null,
    null,
