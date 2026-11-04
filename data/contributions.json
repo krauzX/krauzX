@@ -1,11 +1,11 @@
 {
  "user": "krauzX",
  "source": "https://github.com/krauzX",
- "fetched_at": "2026-11-03T05:53:42+00:00",
+ "fetched_at": "2026-11-04T05:29:10+00:00",
  "columns": 53,
  "rows": 7,
- "total": 1370,
- "total_level": 231,
+ "total": 1404,
+ "total_level": 242,
  "max_level": 4,
  "grid": [
   [
@@ -640,8 +640,8 @@
   [
    {
     "date": "2026-03-01",
-    "level": 0,
-    "count": null
+    "level": 1,
+    "count": 1
    },
    {
     "date": "2026-03-02",
@@ -678,7 +678,7 @@
    {
     "date": "2026-03-08",
     "level": 1,
-    "count": 3
+    "count": 4
    },
    {
     "date": "2026-03-09",
@@ -715,7 +715,7 @@
    {
     "date": "2026-03-15",
     "level": 1,
-    "count": 2
+    "count": 3
    },
    {
     "date": "2026-03-16",
@@ -752,7 +752,7 @@
    {
     "date": "2026-03-22",
     "level": 1,
-    "count": 1
+    "count": 2
    },
    {
     "date": "2026-03-23",
@@ -789,7 +789,7 @@
    {
     "date": "2026-03-29",
     "level": 1,
-    "count": 1
+    "count": 2
    },
    {
     "date": "2026-03-30",
@@ -826,7 +826,7 @@
    {
     "date": "2026-04-05",
     "level": 1,
-    "count": 2
+    "count": 3
    },
    {
     "date": "2026-04-06",
@@ -862,8 +862,8 @@
   [
    {
     "date": "2026-04-12",
-    "level": 0,
-    "count": null
+    "level": 1,
+    "count": 1
    },
    {
     "date": "2026-04-13",
@@ -899,8 +899,8 @@
   [
    {
     "date": "2026-04-19",
-    "level": 0,
-    "count": null
+    "level": 1,
+    "count": 1
    },
    {
     "date": "2026-04-20",
@@ -937,7 +937,7 @@
    {
     "date": "2026-04-26",
     "level": 1,
-    "count": 5
+    "count": 6
    },
    {
     "date": "2026-04-27",
@@ -973,8 +973,8 @@
   [
    {
     "date": "2026-05-03",
-    "level": 0,
-    "count": null
+    "level": 1,
+    "count": 1
    },
    {
     "date": "2026-05-04",
@@ -1010,8 +1010,8 @@
   [
    {
     "date": "2026-05-10",
-    "level": 0,
-    "count": null
+    "level": 1,
+    "count": 1
    },
    {
     "date": "2026-05-11",
@@ -1047,8 +1047,8 @@
   [
    {
     "date": "2026-05-17",
-    "level": 0,
-    "count": null
+    "level": 1,
+    "count": 1
    },
    {
     "date": "2026-05-18",
@@ -1084,8 +1084,8 @@
   [
    {
     "date": "2026-05-24",
-    "level": 0,
-    "count": null
+    "level": 1,
+    "count": 1
    },
    {
     "date": "2026-05-25",
@@ -1122,7 +1122,7 @@
    {
     "date": "2026-05-31",
     "level": 1,
-    "count": 1
+    "count": 2
    },
    {
     "date": "2026-06-01",
@@ -1158,8 +1158,8 @@
   [
    {
     "date": "2026-06-07",
-    "level": 0,
-    "count": null
+    "level": 1,
+    "count": 1
    },
    {
     "date": "2026-06-08",
@@ -1196,7 +1196,7 @@
    {
     "date": "2026-06-14",
     "level": 1,
-    "count": 10
+    "count": 11
    },
    {
     "date": "2026-06-15",
@@ -1215,13 +1215,13 @@
    },
    {
     "date": "2026-06-18",
-    "level": 0,
-    "count": null
+    "level": 1,
+    "count": 1
    },
    {
     "date": "2026-06-19",
-    "level": 0,
-    "count": null
+    "level": 1,
+    "count": 1
    },
    {
     "date": "2026-06-20",
@@ -1232,8 +1232,8 @@
   [
    {
     "date": "2026-06-21",
-    "level": 2,
-    "count": 41
+    "level": 3,
+    "count": 46
    },
    {
     "date": "2026-06-22",
@@ -1946,9 +1946,13 @@
    {
     "date": "2026-11-03",
     "level": 1,
-    "count": 1
+    "count": 12
    },
-   null,
+   {
+    "date": "2026-11-04",
+    "level": 0,
+    "count": null
+   },
    null,
    null,
    null
